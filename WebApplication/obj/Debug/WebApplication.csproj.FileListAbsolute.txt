@@ -77,3 +77,10 @@ D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\obj\D
 D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\obj\Debug\WebApplication.csproj.CopyComplete
 D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\obj\Debug\WebApplication.dll
 D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\obj\Debug\WebApplication.pdb
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\bin\EntityFramework.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\bin\EntityFramework.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\bin\MyClass.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\bin\MyClass.pdb
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\bin\MyClass.dll.config

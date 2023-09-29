@@ -1,0 +1,12 @@
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\bin\Debug\MyClass.dll.config
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\bin\Debug\MyClass.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\bin\Debug\MyClass.pdb
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\bin\Debug\EntityFramework.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\bin\Debug\EntityFramework.SqlServer.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\bin\Debug\EntityFramework.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\bin\Debug\EntityFramework.SqlServer.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\obj\Debug\MyClass.csproj.CopyComplete
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\obj\Debug\MyClass.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\UDW\WebApplication\MyClass\obj\Debug\MyClass.pdb
