@@ -11,24 +11,49 @@ namespace MyClass.Model
     [Table("Categories")]
     public class Categories
     {
-
         [Key]
+        [Display(Name = "Id")]
         public int Id { get; set; }
-        [Required]
-        public string Name { get; set; }
-        public string Slug { get; set; }
-        public int ParentID { get; set; }
-        public int? Order { get; set; }
-        [Required]
-        public string MetaDesc { get; set; }
-        [Required]
-        public string MetaKey { get; set; }
-        public DateTime CreateAt { get; set; }
-        public int CreateBy { get; set; }
-        public DateTime UpdateAt { get; set; }
-        public int UpdateBy { get; set; }
-        public int Status { get; set; }
 
+        [Required(ErrorMessage = "Tên loại không được để trống")]
+        [Display(Name = "Tên loại SP")]
+        public string Name { get; set; }
+
+        [Display(Name = "Tên rút gọn")]
+        public string Slug { get; set; }
+
+        [Display(Name = "Cấp cha")]
+        public int ParentID { get; set; }
+
+        [Display(Name = "Sắp xếp")]
+        public int? Order { get; set; }
+
+        [Required(ErrorMessage = "Mô tả không được để trống")]
+        [Display(Name = "Mô tả")]
+        public string MetaDesc { get; set; }
+
+        [Required(ErrorMessage = "Từ khóa không được để trống")]
+        [Display(Name = "Từ khóa")]
+        public string MetaKey { get; set; }
+
+        [Required(ErrorMessage = "Người tạo không được để trống")]
+        [Display(Name = "Người tạo")]
+        public int CreateBy { get; set; }
+
+        [Required(ErrorMessage = "Ngày tạo không được để trống")]
+        [Display(Name = "Ngày tạo")]
+        public DateTime CreateAt { get; set; }
+
+        [Required(ErrorMessage = "Người cập nhật không được để trống")]
+        [Display(Name = "Cập nhật bởi")]
+        public int UpdateBy { get; set; }
+
+        [Required(ErrorMessage = "Ngày cập nhật không được để trống")]
+        [Display(Name = "Ngày cập nhật")]
+        public DateTime UpdateAt { get; set; }
+
+        [Display(Name = "Trạng thái")]
+        public int Status { get; set; }
     }
 }
     
